@@ -17,3 +17,6 @@ def Power(x,y):
 def squire (x):
 	return x*x
 
+def cube(x):
+	return x*x*x
+
