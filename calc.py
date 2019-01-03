@@ -6,3 +6,7 @@ def subtract(x,y):
 
 def Multi(x,y):
 	return x*y
+
+def Devide(x,y):
+	return x/y
+	
