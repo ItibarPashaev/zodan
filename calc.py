@@ -9,6 +9,10 @@ def Multi(x,y):
 
 def Devide(x,y):
 	return x/y
+
+def Power(x,y):
+	return x**y
+	
 	
 def squire (x):
 	return x*x
