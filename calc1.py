@@ -14,3 +14,6 @@ def Power(x,y):
 	return x**y
 	
 	
+def squire (x):
+	return x*x
+
