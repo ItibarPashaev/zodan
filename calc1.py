@@ -23,3 +23,5 @@ def cube(x):
 def sqroot(x):
 	return x**0.5
 
+def base36(x):
+	return int("x", 36)
