@@ -20,3 +20,6 @@ def squire (x):
 def cube(x):
 	return x*x*x
 
+def sqroot(x):
+	return x**0.5
+
